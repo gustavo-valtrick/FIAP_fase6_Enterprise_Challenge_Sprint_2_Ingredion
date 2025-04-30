@@ -128,6 +128,8 @@ Sprint_2/
 - `teste_modelo.py` gera gráficos comparando valores reais e previstos de produtividade.
 
 ---
+#### Link para o vídeo de apresentação do projeto: <a href="https://youtu.be/7-ZxUvtHhm8?si=jLcqZ22jmSzhlm_X">Video não listado no Youtube</a>
+---
 
 ## 🗃 Histórico de lançamentos
 
