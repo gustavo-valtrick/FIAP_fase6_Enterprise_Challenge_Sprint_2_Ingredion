@@ -83,7 +83,8 @@ Sprint_2/
 ├── src/                     # Código-fonte principal
 │   ├── preprocessing.py
 │   ├── modelo_IA.py
-│   └── teste_modelo.py
+│   ├── teste_modelo.py
+│   └── FIAP_fase6_Enterprise_Challenge_Sprint_2_Ingredion.ipynb
 │
 ├── data/
 │   ├── raw/                 # Dados brutos (.csv da plataforma SATVeg e IEA)
